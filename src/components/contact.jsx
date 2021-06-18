@@ -149,12 +149,6 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2021 MULTITECH TOOLS. Design by{" "}
-            <a
-              href="https://www.linkedin.com/in/sarojini-mathiyalagan-805354153/"
-              rel="nofollow"
-            >
-              Sarojini
-            </a>
           </p>
         </div>
       </div>
